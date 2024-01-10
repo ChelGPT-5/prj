@@ -52,5 +52,4 @@ python manage.py runserver
 # __Лицензия__
 Этот проект распространяется под лицензией MIT. Подробности можно найти в файле LICENSE.
 
-![](![gruz](https://github.com/ChelGPT-5/prj/assets/125600788/c1e390e5-c6ee-419b-8b80-400753aa5213)
-)
+![gruz](https://github.com/ChelGPT-5/prj/assets/125600788/c1e390e5-c6ee-419b-8b80-400753aa5213)
