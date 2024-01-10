@@ -12,4 +12,11 @@ def index(request):
 
 
 def about(request):
-    return HttpResponse("About page")
+    context: dict[str, str] = {
+        'title': "О нас",
+        'content': "О нас",
+        'text_on_page': "Добро пожаловать в мир грузоперевозок – вашего надежного партнера в сфере грузоперевозок."
+    }
+
+    return render(request, 'main/about.html', context)
+
